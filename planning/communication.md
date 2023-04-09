@@ -2,43 +2,57 @@
 
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+In this group we respect each others. We says please and thank you. </br> We do
+have a minor language barrier problem with one of the team member but it's not
+stopping us to understand, do the best for the team and support each others.
+</br> </br> We always have to attend the daily meeting with prepared topic and
+updating our work to other members. </br> We have a strict rules that only
+members with active contribution may stay in the group because we respect hard
+work and dedication. </br>
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day       |     How      | The topic of discussion       |
+| --------- | :----------: | ----------------------------- |
+| Sunday    |   Meeting    | team members availability     |
+| Monday    | Zoom Meeting | assign team members to a task |
+| Tuesday   | Zoom Meeting | follow up / assign new tasks  |
+| Wednesday | Zoom Meeting | solve the unfinished tasks    |
+| Thursday  | Zoom Meeting | follow up /check in           |
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+How often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: Daily
+- **Pull Requests**: Once Created : when need to merge a file
+- **GitHub Discussions** Rarely Used
+- **Slack/Discord**: Every Hour : Request , Bug , Follow up
+- **Video Calls**: From 5PM-8pm : tasks to be done , Follow up
 
 ---
 
-## Availability
+## Availability for calling/messaging
 
-### Availability for calling/messaging
+## WEEK 1 (03 - 09 APRIL 2023) </br>
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+</br>
 
-### How many hours everyone has per day
+| Day      |    Monday     |    Tuesday    |   Wednesday   |   Thursday    |    Friday     | Saturday | Sunday |
+| -------- | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :------: | :----: |
+| Gabrella | 10-12 ; 18-24 | 10-12 ; 18-24 | 10-15 ; 18-24 | 10-15 ; 18-01 | 10-15 ; 20-21 |    x     |   x    |
+| Ali      |    17 - 22    |    17 - 22    |    17 - 22    |    17 - 22    |    17 - 22    |    x     |   x    |
+| Cemal    |   Whole day   |   Whole day   |   Whole day   |   Whole day   |   Whole day   |    x     |   x    |
+| gopi     | not available | 16-18 n 20-22 |     10-12     |     21-23     |   Whole day   |    x     |   x    |
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+## How many hours everyone has per day in week 1
+
+- Ali: 5h
+- Gopi: 3h
+- Gabriella: 5 - 8h
+- Cemal: Whole day
 
 ## Asking for Help
 
