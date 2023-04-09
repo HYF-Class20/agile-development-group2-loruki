@@ -36,5 +36,3 @@ because retrospective is about behavior not people! </br>
 
 - Some of us don't give an update or delayed the work that given, other member
   need to take over the task because we meet the deadline.
-
-  this is very good file
