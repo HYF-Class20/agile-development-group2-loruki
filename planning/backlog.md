@@ -25,10 +25,14 @@ create your own! </br>
 
 - [x] As a student and web developer I want to see a responsive user experience
       so that I have inspiration of the project
-- [x] As a user I want to see a professional looking platform
-- [x] As a user I want to see a demo request form </br>
+- [x] As a user I want to see a professional looking platform so that I can have
+      a secure feeling about their professionalism
+- [x] As a user I want to see a demo request form so that I can use their trial
+      version </br>
 
 ## Could-Haves
 
-- [x] As a user I want to see the managing resources
-- [x] As a user I want to see the social media accounts
+- [x] As a user I want to see the managing resources so that I can have a secure
+      feeling about their professionalism
+- [x] As a user I want to see the social media accounts so that I can see their
+      profile and watch their advertisement if any
