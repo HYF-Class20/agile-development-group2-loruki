@@ -12,8 +12,12 @@ $${\color{red}  Branch - Convention -please-follow - this - pattern- when- branc
 
 $${\color{red}  Committing - Convention -please-follow - this - pattern- when-Committing}$$
 
-- git commit -m '<category: do something; do some other things>' ex git commit
-  -m <index.html:header:add links >
+- git commit -m '<category: do something; do some other things>' 
+
+ex
+
+-  git commit-m '<index.html:header:add links >'
+
 
 ## Issuing
 
