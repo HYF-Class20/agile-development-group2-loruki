@@ -36,16 +36,16 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 ## Availability for calling/messaging
 
-## WEEK 1 (03 - 09 APRIL 2023) </br>
+## WEEK 1 (10 - 15 APRIL 2023) </br>
 
 </br>
 
-| Day      |    Monday     |    Tuesday    |   Wednesday   |   Thursday    |    Friday     | Saturday | Sunday |
-| -------- | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :------: | :----: |
-| Gabrella | 10-12 ; 18-24 | 10-12 ; 18-24 | 10-15 ; 18-24 | 10-15 ; 18-01 | 10-15 ; 20-21 |    x     |   x    |
-| Ali      |    17 - 22    |    17 - 22    |    17 - 22    |    17 - 22    |    17 - 22    |    x     |   x    |
-| Cemal    |   Whole day   |   Whole day   |   Whole day   |   Whole day   |   Whole day   |    x     |   x    |
-| gopi     | not available | 16-18 n 20-22 |     10-12     |     21-23     |   Whole day   |    x     |   x    |
+| Day      |    Monday     |    Tuesday    | Wednesday | Thursday  |  Friday   | Saturday | Sunday |
+| -------- | :-----------: | :-----------: | :-------: | :-------: | :-------: | :------: | :----: | --- |
+| Gabrella |               |    19 - 02    |  19 - 02  |  19 - 02  |  19 - 02  | 19 - 02  |   x    | x   |
+| Ali      |    17 - 22    |    17 - 22    |  17 - 22  |  17 - 22  |  17 - 22  |    x     |   x    |
+| Cemal    |   Whole day   |   Whole day   | Whole day | Whole day | Whole day |    x     |   x    |
+| gopi     | not available | 16-18 n 20-22 |   10-12   |   21-23   | Whole day |    x     |   x    |
 
 ## How many hours everyone has per day in week 1
 
