@@ -41,8 +41,8 @@ How often will we get in touch on each channel, and what we will discuss there:
 </br>
 
 | Day      |    Monday     |    Tuesday    | Wednesday | Thursday  |  Friday   | Saturday | Sunday |
-| -------- | :-----------: | :-----------: | :-------: | :-------: | :-------: | :------: | :----: | --- |
-| Gabrella |               |    19 - 02    |  19 - 02  |  19 - 02  |  19 - 02  | 19 - 02  |   x    | x   |
+| -------- | :-----------: | :-----------: | :-------: | :-------: | :-------: | :------: | :----: |
+| Gabrella |    19 -02     |    19 - 02    |  19 - 02  |  19 - 02  |  19 - 02  |    x     |   x    |
 | Ali      |    17 - 22    |    17 - 22    |  17 - 22  |  17 - 22  |  17 - 22  |    x     |   x    |
 | Cemal    |   Whole day   |   Whole day   | Whole day | Whole day | Whole day |    x     |   x    |
 | gopi     | not available | 16-18 n 20-22 |   10-12   |   21-23   | Whole day |    x     |   x    |
@@ -52,6 +52,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 - Ali: 5h
 - Gopi: 3h
 - Gabriella: 5 - 8h
+-
 - Cemal: Whole day
 
 ## Asking for Help
