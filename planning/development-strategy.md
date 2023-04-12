@@ -45,11 +45,16 @@ can find more details of our design in
 
 - **Add Logo** ==> Loruki.
 
-- **Add navigation bars that links to Features and Documentation
-  pages**</br> -[x] HTML </br> **nav-bar** - For our user needs create a nav-bar
-  that can reach al the pages {home,features,docs} </br>
+- **Add navigation bars that links to Features and Documentation pages**</br>
 
-  - The nav-bar inside a flex container </br></br>
+- [x] HTML </br>
+
+**nav-bar** </br>
+
+- For our user needs create a nav-bar that can reach al the pages
+  {home,features,docs} </br>
+
+- The nav-bar inside a flex container </br></br>
 
 - [x] CSS </br>
 
@@ -66,12 +71,16 @@ can find more details of our design in
 - [x] HTML </br> ??? </br></br>
 - [x] CSS </br>
 
-- Create showcase form for Demo Request</br></br>
+  - Create showcase form for Demo Request</br></br>
 
 - **Add static content consist of Deployments Record, Published Record, and
-  Project Record.** </br> -[x] HTML </br> ??? </br> -[x] CSS </br>
+  Project Record.** </br>
 
-  - Create 3 template column grid with grid gap between each</br></br>
+- [x] HTML </br> ??? </br>
+
+- [x] CSS </br>
+
+- Create 3 template column grid with grid gap between each</br></br>
 
 - **Add selection of selection programming languages that we supports with
   animated card** </br>
