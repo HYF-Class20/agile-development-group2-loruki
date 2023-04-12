@@ -1,16 +1,21 @@
 # Constraints
 
-Some boundaries and rules to be respected around our project naming
+here are boundaries around our project.
 
-## Branches
+## External
 
-$${\color{red}  Branch - Convention -please-follow - this - pattern- when- branching-issue}$$
+- the project deadline is only one week which is quit intense
+- its quite challenging for members working in shifts/weekends to do more to
+  contribution to the project
 
-- git branch <category/reference/description-in-kebab-case>
+## Internal: Involuntary
 
-## Committing
+- Time
 
-$${\color{red}  Committing - Convention -please-follow - this - pattern- when-Committing}$$
+  Members availability is different so each member indicate his availability in
+  the timetable which is quite difficult to set an exact hour to meet
+
+- Technology
 
 - git commit -m '<category: do something; do some other things>'
 
@@ -18,16 +23,46 @@ ex
 
 - git commit-m '<index.html:header:add links >'
 
-## Issuing
+  Members skills level is different that create us kind of barriers to achieve
+  efficient creation also the the verity of Technologies used in this project is
+  also challenging for some members, like the appropriate use of github / vscode
+  /node.js /html and css
 
-$${\color{red}  Issues - Convention -please-follow - this - pattern- when-issue}$$
-<category: do something; do some other things>' ex <planning: add-or -edit
--or-remove :filename.md -or-filename.html>
-$${\color{red}  Issues - should -be -add  - to  - project - in -progress}$$
-$${\color{red}  Issues - should-be -move  - to  - project - to -review -when-finish}$$
+## Internal: Voluntary
 
-## Pull Request "PR"
+A. **Naming conventions / Rules**
 
-$${\color{red}  PR- wright-a-clear  -name- when  - create-it  }$$
+members are not familiar with the naming conventions/rules and they to need to
+control for every task each ever time
 
-$${\color{red}  PR- don't-add  -them- to  - project  }$$
+### List of our naming conventions / Rules
+
+- **Branches**
+
+  **Please** follow this pattern when committing git branch
+  <category/reference/description-in-kebab-case>
+
+- **Committing**  
+   **Please** follow this pattern when committing git commit -m '<category: do something;
+  do some other things>'
+
+- **Issuing**
+
+  **please** follow this pattern when issue
+
+  <category: do something; do some other things>'
+
+  **add** issue to project board [in progress-need revision]
+
+- **Pull Request "PR"**
+
+  **wright** a clear description name when you do a PR
+
+  **do** not add PR to the project board
+
+## Code of conduct
+
+In our group we respect each others. and appreciate each member contribution.
+some of our team member have a minor language barrier/ skills problem but
+it'snot stopping us from developing the project or enhancing our teamwork and
+give each other the appropriate support
