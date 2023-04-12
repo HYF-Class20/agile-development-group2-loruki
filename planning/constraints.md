@@ -15,7 +15,6 @@ here are boundaries around our project.
   Members availability is different so each member indicate his availability in
   the timetable which is quite difficult to set an exact hour to meet
 
-
 - Technology
 
 - git commit -m '<category: do something; do some other things>'
@@ -23,7 +22,6 @@ here are boundaries around our project.
 ex
 
 - git commit-m '<index.html:header:add links >'
-
 
   Members skills level is different that create us kind of barriers to achieve
   efficient creation also the the verity of Technologies used in this project is
