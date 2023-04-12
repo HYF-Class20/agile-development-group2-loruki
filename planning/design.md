@@ -1,6 +1,6 @@
 # Design
 
-ALL About Loruki Wireframe
+Loruki Wireframe
 
 ## Homepage HTML SEMANTIC TAGS
 
