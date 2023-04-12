@@ -24,7 +24,7 @@ ex
 - git commit-m '<index.html:header:add links >'
 
   Members skills level is different that create us kind of barriers to achieve
-  efficient creation also the the verity of Technologies used in this project is
+  efficient creation also the verity of Technologies used in this project is
   also challenging for some members, like the appropriate use of github / vscode
   /node.js /html and css
 
