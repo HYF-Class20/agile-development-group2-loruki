@@ -1,10 +1,18 @@
 # Design
 
-We decided to have a simple page, we didn't make plan colors or anything else.
-Prettiness is not a priority for this project.
+ALL About Loruki Wireframe
 
----
+## Homepage HTML SEMANTIC TAGS
 
-> [wireframe source](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
+![Homepage](https://github.com/HYF-Class20/agile-development-group2-loruki/raw/master/planning/assets/home.jpg)
+</br>
 
-![wireframe](./wireframe.svg)
+## Features HTML SEMANTIC TAGS
+
+![Features](https://github.com/HYF-Class20/agile-development-group2-loruki/raw/master/planning/assets/features.jpg)
+</br>
+
+## Docs HTML SEMANTIC TAGS
+
+![Docs](https://github.com/HYF-Class20/agile-development-group2-loruki/raw/master/planning/assets/docs.jpg)
+</br>
