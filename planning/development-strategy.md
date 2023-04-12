@@ -1,39 +1,21 @@
-# Restaurants finder
+# Development Strategy
 
----
+**in this part our team will do in depth analyze for the loruki cloud hosting
+website based on the users needs**
 
-<!-- ## User Story Dependencies
+## Design
 
-[Story Dependency Diagram](https://excalidraw.com/)
+Based on the user needs the design is a responsive website that targeting users
+using big screen and small screens ,the design is done using **Html,Css**,
+**Css-flexbox** , **Css-grid** ,**bootstrap 5**, and **Media queries**
 
----
+## Homepage
 
-## WIREFRAME
+### HTML
 
-![wireframe]() -->
+    **nav-bar**
 
----
+    - [x] for our user needs create a nav-bar that can reach al the pages {home,features,docs}
+    - [x] the nav-bar inside a flex container
 
-## 0.Setup
-
-- ...
-- ...
-
----
-
-## 1. Title
-
-**As a user I want to ...**
-
-- This user story is developed on branch `branch-name`.
-- This branch is merged to `master` branch after completion.
-
-### Task n1
-
-- ...
-- ...
-
-### Task n2
-
-- ...
-- ...
+### CSS
