@@ -1,30 +1,33 @@
 # Constraints
 
-Some boundaries around our project.
+Some boundaries and rules to be respected around our project naming
 
-## External
+## Branches
 
-<!--
-  constraints coming from the outside that your team has no control over. these may include:
-  - project deadlines
-  - UI design or color schemes
-  - technologies (sometimes a client will tell you what to use)
--->
+$${\color{red}  Branch - Convention -please-follow - this - pattern- when- branching-issue}$$
 
-## Internal: Involuntary
+- git branch <category/reference/description-in-kebab-case>
 
-<!--
-  constraints that come from within your team, and you have no control over. they may include:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+## Committing
 
-## Internal: Voluntary
+$${\color{red}  Committing - Convention -please-follow - this - pattern- when-Committing}$$
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+- git commit -m '<category: do something; do some other things>'
+
+ex
+
+- git commit-m '<index.html:header:add links >'
+
+## Issuing
+
+$${\color{red}  Issues - Convention -please-follow - this - pattern- when-issue}$$
+<category: do something; do some other things>' ex <planning: add-or -edit
+-or-remove :filename.md -or-filename.html>
+$${\color{red}  Issues - should -be -add  - to  - project - in -progress}$$
+$${\color{red}  Issues - should-be -move  - to  - project - to -review -when-finish}$$
+
+## Pull Request "PR"
+
+$${\color{red}  PR- wright-a-clear  -name- when  - create-it  }$$
+
+$${\color{red}  PR- don't-add  -them- to  - project  }$$
