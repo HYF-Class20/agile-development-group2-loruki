@@ -1,8 +1,8 @@
 # Backlog
 
-## HOMEPAGE
+## Must-Haves
 
-### Must-Haves
+### Homepage
 
 - [x] As a user I want to see **title and company Logo** so that I can search
       customer review of their company on google
@@ -23,7 +23,9 @@
 - [x] As a web developer I want to see a clear license or **copyright** to make
       sure that their platform offers professional service </br>
 
-### Should-Haves
+## Should-Haves
+
+### Homepage
 
 - [x] As a student and web developer I want to see a **responsive website**
 - [x] As a user I want to see information about **how fast I can deploy** my
@@ -35,7 +37,9 @@
       **cross-platform CLI** so that I can spare time and cost by creating a
       single basecode that works on multiple platforms
 
-### Could-Haves
+## Could-Haves
+
+### Homepage
 
 - [x] As a user I want to see their **social media accounts** so that I can have
       a look and maybe find out more realtime information about the platform and
