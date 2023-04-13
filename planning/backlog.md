@@ -40,4 +40,4 @@ create your own! </br>
 - [x] As a user I want to see the managing resources so that I can have a secure
       feeling about their professionalism
 - [x] As a user I want to see the social media accounts so that I can see their
-      profile and watch their advertisement if any g
+      profile and watch their advertisement if any
