@@ -1,38 +1,48 @@
 # Retrospective
 
 Retrospective in an intern group feedback. In this session we don't mention name
-because retrospective is about behavior not people! </br>
-
-## Stop Doing
-
-- Not responding on Slackgit
-- Not giving an update about work project </br>
-
-## Continue Doing
-
-- Daily meeting
-- Asking help when you really can't find solution
-- Practicing git </br>
-
-## Start Doing
-
-- Having more time to practicing HTML and CSS </br>
-
-## Lessons Learned
-
-- A well organized planning creates more efficient work
-- Following up to each others makes work run smoothly and less stress </br>
+because retrospective is about behavior not people
 
 ---
 
-## Strategy vs. Board
+## Stop Doing
 
-### What parts of your plan went as expected?
+- Not paying attention on Slack Example; Coach gave review and put it on Slack.
+  Some of us didn't aware of it.
+- Not checking Project Board
+- Not focus of the task instruction
 
-- Dividing tasks. It makes work easier and each of us can focus on the tasks
-  assigned </br>
+## Continue Doing
 
-### What parts of your plan did not work out?
+- Giving update of our task progress to other team members
+- Daily meeting
+- Giving summary meeting to others member that didn't attend daily meeting
 
-- Some of us don't give an update or delayed the work that given, other member
-  need to take over the task because we meet the deadline.
+## Start Doing
+
+- Having more time for ourself to practicing HTML and CSS
+- Dividing task equally no matter what other members capabilities
+- Be more active in team;
+  - Giving input for the project
+  - Share your opinion
+  - Check project board and organize your own task progress in it
+
+## Lessons Learned
+
+This week we are better than last week in :
+
+- Solving bugs independently
+- Naming convention; Organized naming our branches, having more structure in
+  writing comment in commit
+
+---
+
+## Strategy vs Board
+
+### What Parts Of Your Plan Went As Expected?
+
+- Dividing tasks
+
+### What Parts Of Your Plan Did Not Work Out Well?
+
+- Too long working on planning phase
