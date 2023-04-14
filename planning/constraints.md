@@ -17,14 +17,18 @@ here are boundaries around our project.
 
 - Technology
 
-- git commit -m '<category: do something; do some other things>'
+  1-Vscode
 
-ex
+  2- Node.JS 14.16.0
 
-- git commit-m '<index.html:header:add links >'
+  3-Figma
+
+  4-Html/css
+
+- Members skills
 
   Members skills level is different that create us kind of barriers to achieve
-  efficient creation also the the verity of Technologies used in this project is
+  efficient creation also the verity of Technologies used in this project is
   also challenging for some members, like the appropriate use of github / vscode
   /node.js /html and css
 
@@ -39,12 +43,15 @@ control for every task each ever time
 
 - **Branches**
 
-  **Please** follow this pattern when committing git branch
-  <category/reference/description-in-kebab-case>
+  **Please** follow this pattern when branching
 
-- **Committing**  
-   **Please** follow this pattern when committing git commit -m '<category: do something;
-  do some other things>'
+  git branch <category/reference/description-in-kebab-case>
+
+- **Committing**
+
+  **Please** follow this pattern when committing
+
+  git commit -m '<category: do something;do some other things>'
 
 - **Issuing**
 
