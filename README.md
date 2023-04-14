@@ -15,7 +15,7 @@ servers can work together to handle traffic spikes and ensure uptime.
   - [Features](#features)
   - [Screenshots](#screenshots)
   - [Technology](#technology)
-  - [Coders](#coders)
+  - [Contributors](#contributors)
 
 ## Features
 
@@ -42,7 +42,7 @@ websites. Some common features of our hosting service are :-
 
 ## Technology
 
-- Node
+- Node 14.16.0
 - VSC code
 - JavaScript
 - Html
@@ -50,7 +50,7 @@ websites. Some common features of our hosting service are :-
 - GitHUB
 - Figma
 
-## Coders
+## Contributors
 
 - [Gopiben](https://github.com/Gopiben)
 - [Gabriella](https://github.com/GabriellaLohy)
