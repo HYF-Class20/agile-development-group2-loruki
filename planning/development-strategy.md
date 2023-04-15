@@ -49,8 +49,6 @@ can find more details of our design in
 
 - [x] HTML </br>
 
-**nav-bar** </br>
-
 - For our user needs create a nav-bar that can reach al the pages
   {home,features,docs} </br>
 
