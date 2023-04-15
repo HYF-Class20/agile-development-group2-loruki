@@ -5,6 +5,7 @@ ALL About Loruki Wireframe
 ## Homepage 
 
 ![Homepage](https://github.com/HYF-Class20/agile-development-group2-loruki/blob/planning/design-md/planning/assets/home.jpg?raw=true)
+
 </br>
 
 ## Features 
